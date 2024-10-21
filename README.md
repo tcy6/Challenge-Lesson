@@ -1,1 +1,1 @@
-This repo is for challenge lesson.
+This repo is for Challenge Lesson.
