@@ -8,8 +8,8 @@ import sys
 import getpass
 
 # 配置
-APP_FILES_DIR = './app'  # 关键文件目录
-ROOT_HASH_FILE = 'root_hash.txt'  # 存储根哈希和盐值的文件
+APP_FILES_DIR = './Unit2/app'  # 关键文件目录
+ROOT_HASH_FILE = './Unit2/root_hash.txt'  # 存储根哈希和盐值的文件
 CHECK_INTERVAL = 10  # 实时校验的时间间隔（秒）
 SENSITIVE_PASSWORD = 'securepassword'  # 敏感操作的密码（在实际应用中应安全存储）
 
